@@ -25,7 +25,7 @@ Since this project is a simple static website, you can run it directly in your w
 1. **Clone or Download the Project**:
    - Clone the repository or download it as a ZIP file from GitHub:
      ```bash
-     git clone https://github.com/yourusername/copylink-receipt-generator.git
+     https://github.com/chrispinusjacob/Cyber-Browsing-Charges-Calculator.git
      ```
 
 2. **Open the Project**:
