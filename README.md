@@ -55,4 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [jsPDF](https://github.com/parallax/jsPDF) - The library used to generate PDF receipts.
 - Copylink Cyber Café for inspiring the concept behind this project.
 
- Project url :  https://github.com/chrispinusjacob/Cyber-Browsing-Charges-Calculator/
+ Project url :  https://chrispinusjacob.github.io/Cyber-Browsing-Charges-Calculator/
